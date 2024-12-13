@@ -5,3 +5,5 @@ test*.db*
 local.db
 example
 .direnv/
+CLibsqlDynamic.xcframework
+CLibsqlDynamic.framework
